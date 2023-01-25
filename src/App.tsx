@@ -14,10 +14,10 @@ function App() {
         <ButtonTable />
         {/* <footer>This was built during Rocketseat's second week of "Let's build".</footer> */}
       </article>
-      <aside className="bg-[#130F1E] h-full max-w-md lg:w-full xs:w-0">
+      {/* <aside className="bg-[#130F1E] h-full max-w-md lg:w-full xs:w-0">
         {" "}
         This is my aside
-      </aside>
+      </aside> */}
     </main>
   );
 }
