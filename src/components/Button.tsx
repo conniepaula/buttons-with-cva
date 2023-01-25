@@ -2,7 +2,7 @@ import { cva, type VariantProps } from "cva";
 
 // export type ButtonProps = VariantProps<typeof button>;
 
-export const button = cva("text-md p-3 rounded-full uppercase", {
+export const button = cva("text-md px-6 py-3 rounded-full uppercase", {
   variants: {
     intent: {
       primary:
